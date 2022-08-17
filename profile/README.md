@@ -27,6 +27,7 @@ Gradience, originally Adwaita Manager is a tool for customizing Libadwaita appli
   </a>
 </details>
 
+# Gradience moved to [GradienceTeam](HTTPS://GitHub.com/GradienceTeam)
 
 <a href="https://hosted.weblate.org/engage/GradienceTeam/">
 <img src="https://hosted.weblate.org/widgets/GradienceTeam/-/open-graph.png" alt="Translation status" />
